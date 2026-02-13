@@ -1,19 +1,20 @@
 # 🚀 Gilbert Wijaya
 ### Techno Holic 🤘 | Backend Engineer | AI & Systems Explorer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Gilbert%20Wijaya&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Building%20Scalable%20Systems%20With%20Passion&descSize=18&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Gilbert%20Wijaya&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Engineering%20Systems%20Across%20Software%20%26%20Hardware&descSize=18&descAlignY=65" />
 
 ---
 
 ## 🧠 About Me
 
 🎓 Informatics Engineering Student — Intelligent Systems  
-⚙ Backend Engineer with strong system thinking  
-🤖 Passionate in AI-driven solutions  
-🌐 Networking & infrastructure background (TKJ Graduate)  
+⚙ Backend-focused engineer with system-level thinking  
+🤖 Exploring AI, Machine Learning & Deep Learning  
+🌐 Networking & Infrastructure background (TKJ Graduate)  
+🔧 Tech enthusiast beyond software  
 
-I enjoy building scalable systems, solving real-world problems,  
-and continuously exploring new technologies across multiple domains.
+I believe engineering is not only about writing code —  
+but understanding how systems work from hardware to cloud.
 
 📍 Blitar, East Java, Indonesia  
 🌐 Portfolio: https://astro-coding-portofolio.vercel.app/  
@@ -23,27 +24,33 @@ and continuously exploring new technologies across multiple domains.
 
 # 🔥 Currently Learning & Exploring
 
-## 🤖 Machine Learning / AI / Deep Learning
+## 🤖 AI / Machine Learning / Deep Learning
 - Supervised & Unsupervised Learning
 - Neural Network Architecture
-- Model Optimization & Evaluation
+- Model Optimization
 - AI system integration into backend services
 
 ## 🔐 Cyber Security
-- Basic penetration testing concepts
 - Web security fundamentals (OWASP Top 10)
-- Authentication & authorization best practices
-- Secure API development
+- Secure authentication & authorization
+- Secure API architecture
+- Basic penetration testing concepts
 
 ## 🏗 Technology Architecture
 - Network topology & infrastructure design
-- Server architecture fundamentals
 - Linux server management
 - Container-based deployment strategy
 - Scalable backend architecture patterns
 
-> I believe a great engineer must understand not only code,  
-> but also security, infrastructure, and system architecture.
+## 🔌 Electronics & Mechanical (Hobby & Self-Learning)
+- Basic electronic components & circuit logic
+- Microcontroller exploration
+- Hardware troubleshooting
+- Fundamental mechanical systems understanding
+- Learning how machines operate from structural & functional perspective
+
+> My goal is to understand systems end-to-end:  
+> from circuits ⚡ → servers 🖥 → cloud ☁ → AI 🤖
 
 ---
 
@@ -52,15 +59,15 @@ and continuously exploring new technologies across multiple domains.
 ## ⚙ Backend Engineering
 - RESTful API Design
 - Clean Architecture Pattern
-- Microservices-ready design
+- Microservices-ready systems
 - WebSocket & real-time systems
 - Unit testing & maintainability
 
 ## 🤖 Artificial Intelligence
-- Machine Learning experimentation
+- ML experimentation
 - Deep Learning fundamentals
 - Python ML ecosystem
-- Data preprocessing & feature engineering
+- Data preprocessing
 
 ## ☁ DevOps & Cloud
 - Docker containerization
@@ -72,8 +79,12 @@ and continuously exploring new technologies across multiple domains.
 ## 🌐 Networking & Infrastructure
 - Computer network configuration
 - Server troubleshooting
-- Basic system administration
 - Infrastructure awareness
+
+## 🔧 Hardware & Systems Curiosity
+- Electronics fundamentals
+- Machine mechanism basics
+- Logical problem-solving across physical systems
 
 ---
 
@@ -98,14 +109,12 @@ and continuously exploring new technologies across multiple domains.
 
 ---
 
-# 🚀 Vision
-
-My long-term goal is to become:
+# 🎯 Long-Term Vision
 
 🧠 AI Systems Engineer  
-⚙ Backend Architect  
+🏗 Backend & Infrastructure Architect  
 🔐 Security-aware Engineer  
-☁ Cloud & Infrastructure Specialist  
+🔧 Tech Engineer who understands both software & hardware systems  
 
 ---
 
@@ -117,9 +126,9 @@ My long-term goal is to become:
 
 ---
 
-## ⚡ Personal Motto
+## ⚡ Motto
 
-> “Work with passion. Build with logic. Secure with discipline. Scale with vision.”
+> “Understand the system. Master the logic. Engineer the future.”
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer"/>
 
