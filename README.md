@@ -103,7 +103,7 @@ I don’t just write code — I design systems.
 > Master the logic.  
 > Engineer the future.
 
-</div>
-
 <!-- Footer Capsule Render -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&desc=let's%20change%20civilization%20and%20the%20world&descAlignY=63&section=footer" alt="Footer Image" />
+</div>
+
