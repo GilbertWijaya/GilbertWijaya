@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Gilbert Wijaya
+# 🚀 Gilbert Wijaya  
 ### ⚡ Elite Engineer 2030 | AI • Systems • Infrastructure • Hardware
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Gilbert%20Wijaya&fontSize=45&fontColor=00f7ff&animation=fadeIn&desc=Engineering%20The%20Future%20Across%20Software%20%26%20Hardware&descSize=18&descAlignY=65" />
@@ -67,12 +67,12 @@ I don’t just write code — I design systems.
 
 <div align="center">
 
-| Backend | AI Systems | DevOps | Infrastructure | Hardware |
-|----------|------------|---------|----------------|----------|
-| REST API | ML Models | Docker | Networking | Circuits |
-| Clean Arch | Deep Learning | CI/CD | Linux | Microcontrollers |
-| WebSocket | Data Pipeline | Cloud | Architecture | Machine Logic |
-| Testing | Model Eval | GitHub Actions | Scalability | System Thinking |
+| Backend       | AI Systems     | DevOps            | Infrastructure | Hardware          |
+|---------------|----------------|-------------------|----------------|-------------------|
+| REST API      | ML Models      | Docker            | Networking     | Circuits          |
+| Clean Arch    | Deep Learning  | CI/CD             | Linux          | Microcontrollers  |
+| WebSocket     | Data Pipeline  | Cloud             | Architecture   | Machine Logic     |
+| Testing       | Model Eval     | GitHub Actions    | Scalability    | System Thinking   |
 
 </div>
 
@@ -82,23 +82,23 @@ I don’t just write code — I design systems.
 
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-ffcc00?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)
+### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-ffcc00?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-8892be?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
-### ⚙ Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)
+### ⚙ Frameworks & Tools  
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)  
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
@@ -108,19 +108,19 @@ I don’t just write code — I design systems.
 # 🧬 Roadmap 2026–2028
 
 ### 🎯 2026
-- Production-level AI integration project
-- Deep Linux & server mastery
-- Advanced backend architecture
+- Production-level AI integration project  
+- Deep Linux & server mastery  
+- Advanced backend architecture  
 
 ### 🎯 2027
-- Distributed system project
-- Cyber security lab / CTF participation
-- Publish AI-based system
+- Distributed system project  
+- Cyber security lab / CTF participation  
+- Publish AI-based system  
 
 ### 🎯 2028
-- Design scalable AI system architecture
-- Contribute to major open source
-- Position as AI Systems & Infrastructure Engineer
+- Design scalable AI system architecture  
+- Contribute to major open source  
+- Position as AI Systems & Infrastructure Engineer  
 
 ---
 
@@ -128,7 +128,7 @@ I don’t just write code — I design systems.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GilbertWijaya&show_icons=true&theme=tokyonight"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GilbertWijaya&show_icons=true&theme=tokyonight"/>  
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertWijaya&layout=compact&theme=tokyonight"/>
 
 <br/>
