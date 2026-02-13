@@ -1,69 +1,77 @@
 <div align="center">
 
-# 🚀 Gilbert Wijaya  
-### Techno Holic 🤘 | Backend Engineer | AI & Systems Explorer  
+# 🚀 Gilbert Wijaya
+### ⚡ Elite Engineer 2030 | AI • Systems • Infrastructure • Hardware
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Gilbert%20Wijaya&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Engineering%20Systems%20Across%20Software%20%26%20Hardware&descSize=18&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Gilbert%20Wijaya&fontSize=45&fontColor=00f7ff&animation=fadeIn&desc=Engineering%20The%20Future%20Across%20Software%20%26%20Hardware&descSize=18&descAlignY=65" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;AI+%2F+Machine+Learning+Explorer;Cyber+Security+Learner;Infrastructure+%26+System+Architecture+Enthusiast;Electronics+%26+Mechanical+Hobbyist" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=GilbertWijaya&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 📍 Blitar, East Java, Indonesia  
-🌐 <a href="https://astro-coding-portofolio.vercel.app/">Portfolio</a>  
+🌐 <a href="https://astro-coding-portofolio.vercel.app/">Portfolio Website</a>  
 📫 gilbertwijayabusiness@gmail.com  
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🧠 Engineer Identity
 
-I am an Informatics Engineering student specializing in Intelligent Systems.  
-My passion lies in building scalable backend systems, exploring Artificial Intelligence,  
-and understanding technology from hardware to cloud infrastructure.
+I am an Informatics Engineering student specializing in Intelligent Systems.
 
-I believe great engineers don't just write code —  
-they understand how entire systems work end-to-end.
+My mission is to master systems end-to-end:
+From **circuits ⚡ → servers 🖥 → cloud ☁ → AI 🤖**
 
----
+I build scalable backend systems, explore artificial intelligence,  
+study infrastructure & security, and continuously expand into hardware engineering.
 
-# 🔥 Currently Learning & Exploring
-
-### 🤖 AI / Machine Learning / Deep Learning
-- Supervised & Unsupervised Learning  
-- Neural Network Architecture  
-- Model Optimization & Evaluation  
-- AI integration into backend services  
-
-### 🔐 Cyber Security
-- OWASP Top 10 fundamentals  
-- Secure API design  
-- Authentication & Authorization  
-- Basic penetration testing concepts  
-
-### 🏗 Technology Architecture
-- Network topology design  
-- Linux server management  
-- Container-based deployment  
-- Scalable backend architecture patterns  
-
-### 🔌 Electronics & Mechanical (Hobby)
-- Circuit fundamentals  
-- Microcontroller exploration  
-- Hardware troubleshooting  
-- Mechanical system fundamentals  
-
-> From circuits ⚡ → servers 🖥 → cloud ☁ → AI 🤖  
+I don't just write code — I engineer systems.
 
 ---
 
-# 🏗 Engineering Domains
+# 🔥 Currently Mastering
+
+## 🤖 AI / ML / Deep Learning
+- Supervised & Unsupervised Learning
+- Neural Network Architecture
+- Model Optimization & Evaluation
+- AI Integration into Production Backend
+
+## 🔐 Cyber Security
+- OWASP Top 10
+- Secure API Architecture
+- Authentication & Authorization
+- Basic Penetration Testing Concepts
+
+## 🏗 Infrastructure & Architecture
+- Network Topology Design
+- Linux Server Management
+- Containerization (Docker)
+- Scalable Backend Patterns
+- Cloud Deployment Strategy
+
+## 🔌 Electronics & Mechanical Systems
+- Circuit Fundamentals
+- Microcontroller Exploration
+- Hardware Troubleshooting
+- Mechanical System Understanding
+
+---
+
+# 🏗 Engineering Matrix
 
 <div align="center">
 
-| Backend Engineering | Artificial Intelligence | DevOps & Cloud | Infrastructure |
-|--------------------|------------------------|----------------|---------------|
-| RESTful API Design | ML Experimentation | Docker | Network Configuration |
-| Clean Architecture | Deep Learning | CI/CD | Server Troubleshooting |
-| Microservices-ready | Python ML Ecosystem | Cloud Deployment | Infrastructure Awareness |
-| WebSocket Systems | Data Processing | GitHub Actions | System Thinking |
+| Backend | AI Systems | DevOps | Infrastructure | Hardware |
+|----------|------------|---------|----------------|----------|
+| REST API | ML Models | Docker | Networking | Circuits |
+| Clean Arch | Deep Learning | CI/CD | Linux Server | Microcontrollers |
+| WebSocket | Data Pipeline | Cloud | Architecture | Machine Logic |
+| Testing | Model Eval | GitHub Actions | Scalability | System Thinking |
 
 </div>
 
@@ -73,7 +81,7 @@ they understand how entire systems work end-to-end.
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffcc00?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -84,7 +92,7 @@ they understand how entire systems work end-to-end.
 
 ---
 
-### ⚙ Frameworks & Tools
+### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -96,41 +104,60 @@ they understand how entire systems work end-to-end.
 
 ---
 
-# 🎯 Long-Term Vision
+# 🧬 Roadmap 2026–2028
 
-<div align="center">
+### 🎯 2026
+- Master backend architecture patterns  
+- Build production-level AI integration project  
+- Deep dive into Linux & server deployment  
 
-🧠 AI Systems Engineer  
-🏗 Backend & Infrastructure Architect  
-🔐 Security-aware Engineer  
-🔧 Engineer who understands Software & Hardware  
+### 🎯 2027
+- Build distributed system project  
+- Participate in cybersecurity lab / CTF  
+- Publish AI-based system project  
 
-</div>
+### 🎯 2028
+- Design scalable AI system architecture  
+- Contribute to major open-source project  
+- Positioning as AI Systems & Infrastructure Engineer  
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Performance
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GilbertWijaya&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertWijaya&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GilbertWijaya&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertWijaya&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img height="160em" src="https://streak-stats.demolab.com?user=GilbertWijaya&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://streak-stats.demolab.com?user=GilbertWijaya&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🐍 Contribution Snake
+
 <div align="center">
 
-## ⚡ Motto
-
-> “Understand the system. Master the logic. Engineer the future.”
+<img src="https://raw.githubusercontent.com/GilbertWijaya/GilbertWijaya/output/github-contribution-grid-snake.svg" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer"/>
+⚠️ Untuk snake animation bekerja, kamu perlu setup GitHub Action khusus. Kalau mau, aku bisa kasih tutorial step-by-step.
 
+---
+
+<div align="center">
+
+# ⚡ Philosophy
+
+> Understand the system.  
+> Master the logic.  
+> Engineer the future.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer"/>
