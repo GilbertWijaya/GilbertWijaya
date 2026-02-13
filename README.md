@@ -86,7 +86,7 @@ I don’t just write code — I design systems.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=GilbertWijaya&theme=dark" alt="WakaTime Coding Activity" />
+<img src="https://raw.githubusercontent.com/GilbertWijaya/GilbertWijaya/output/github-contribution-grid-snake.svg" />
 
 </div>
 
