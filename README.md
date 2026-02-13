@@ -3,7 +3,7 @@
 # 🚀 Gilbert Wijaya  
 ### ⚡ Elite Engineer 2030 | AI • Systems • Infrastructure • Hardware
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Gilbert%20Wijaya&fontSize=45&fontColor=00f7ff&animation=fadeIn&desc=Engineering%20The%20Future%20Across%20Software%20%26%20Hardware&descSize=18&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e3c72,100:2a5298&height=240&section=header&text=Gilbert%20Wijaya&fontSize=45&fontColor=00f7ff&animation=fadeIn&desc=Engineering%20The%20Future%20Across%20Software%20%26%20Hardware&descSize=18&descAlignY=65" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;AI+%2F+Machine+Learning+Explorer;Cyber+Security+Learner;Infrastructure+%26+System+Architecture+Enthusiast;Electronics+%26+Mechanical+Hobbyist" />
 
@@ -128,12 +128,12 @@ I don’t just write code — I design systems.
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GilbertWijaya&show_icons=true&theme=tokyonight"/>  
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertWijaya&layout=compact&theme=tokyonight"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GilbertWijaya&show_icons=true&theme=tokyonight&hide_border=true"/>  
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertWijaya&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img height="165em" src="https://streak-stats.demolab.com?user=GilbertWijaya&theme=tokyonight"/>
+<img height="165em" src="https://streak-stats.demolab.com?user=GilbertWijaya&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -143,7 +143,7 @@ I don’t just write code — I design systems.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GilbertWijaya/GilbertWijaya/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=GilbertWijaya&theme=dark" alt="Contribution Snake Alternative" />
 
 </div>
 
