@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=GilbertWijaya&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=GilbertWijaya&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
 
 📍 Blitar, East Java, Indonesia  
 🌐 <a href="https://astro-coding-portofolio.vercel.app/">Portfolio Website</a>  
@@ -21,40 +21,41 @@
 
 # 🧠 Engineer Identity
 
-I am an Informatics Engineering student specializing in Intelligent Systems.
+I engineer systems end-to-end:
 
-My mission is to master systems end-to-end:
-From **circuits ⚡ → servers 🖥 → cloud ☁ → AI 🤖**
+**Circuits ⚡ → Servers 🖥 → Cloud ☁ → AI 🤖**
 
-I build scalable backend systems, explore artificial intelligence,  
-study infrastructure & security, and continuously expand into hardware engineering.
+Backend-focused engineer with deep interest in:
+- Artificial Intelligence
+- Cyber Security
+- Infrastructure & Architecture
+- Electronics & Mechanical Systems
 
-I don't just write code — I engineer systems.
+I don’t just write code — I design systems.
 
 ---
 
 # 🔥 Currently Mastering
 
-## 🤖 AI / ML / Deep Learning
+## 🤖 AI / ML / DL
 - Supervised & Unsupervised Learning
-- Neural Network Architecture
-- Model Optimization & Evaluation
-- AI Integration into Production Backend
+- Neural Networks
+- Model Optimization
+- AI Integration into Backend Systems
 
 ## 🔐 Cyber Security
 - OWASP Top 10
-- Secure API Architecture
+- Secure API Design
 - Authentication & Authorization
-- Basic Penetration Testing Concepts
+- Basic Pentesting Concepts
 
 ## 🏗 Infrastructure & Architecture
-- Network Topology Design
 - Linux Server Management
-- Containerization (Docker)
-- Scalable Backend Patterns
-- Cloud Deployment Strategy
+- Docker Containerization
+- Scalable Backend Pattern
+- Network Topology Design
 
-## 🔌 Electronics & Mechanical Systems
+## 🔌 Electronics & Mechanical
 - Circuit Fundamentals
 - Microcontroller Exploration
 - Hardware Troubleshooting
@@ -69,7 +70,7 @@ I don't just write code — I engineer systems.
 | Backend | AI Systems | DevOps | Infrastructure | Hardware |
 |----------|------------|---------|----------------|----------|
 | REST API | ML Models | Docker | Networking | Circuits |
-| Clean Arch | Deep Learning | CI/CD | Linux Server | Microcontrollers |
+| Clean Arch | Deep Learning | CI/CD | Linux | Microcontrollers |
 | WebSocket | Data Pipeline | Cloud | Architecture | Machine Logic |
 | Testing | Model Eval | GitHub Actions | Scalability | System Thinking |
 
@@ -81,7 +82,7 @@ I don't just write code — I engineer systems.
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffcc00?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -92,7 +93,7 @@ I don't just write code — I engineer systems.
 
 ---
 
-### Frameworks & Tools
+### ⚙ Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -107,32 +108,32 @@ I don't just write code — I engineer systems.
 # 🧬 Roadmap 2026–2028
 
 ### 🎯 2026
-- Master backend architecture patterns  
-- Build production-level AI integration project  
-- Deep dive into Linux & server deployment  
+- Production-level AI integration project
+- Deep Linux & server mastery
+- Advanced backend architecture
 
 ### 🎯 2027
-- Build distributed system project  
-- Participate in cybersecurity lab / CTF  
-- Publish AI-based system project  
+- Distributed system project
+- Cyber security lab / CTF participation
+- Publish AI-based system
 
 ### 🎯 2028
-- Design scalable AI system architecture  
-- Contribute to major open-source project  
-- Positioning as AI Systems & Infrastructure Engineer  
+- Design scalable AI system architecture
+- Contribute to major open source
+- Position as AI Systems & Infrastructure Engineer
 
 ---
 
-# 📊 GitHub Performance
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GilbertWijaya&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertWijaya&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GilbertWijaya&show_icons=true&theme=tokyonight"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertWijaya&layout=compact&theme=tokyonight"/>
 
 <br/>
 
-<img height="165em" src="https://streak-stats.demolab.com?user=GilbertWijaya&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://streak-stats.demolab.com?user=GilbertWijaya&theme=tokyonight"/>
 
 </div>
 
@@ -146,13 +147,11 @@ I don't just write code — I engineer systems.
 
 </div>
 
-⚠️ Untuk snake animation bekerja, kamu perlu setup GitHub Action khusus. Kalau mau, aku bisa kasih tutorial step-by-step.
-
 ---
 
 <div align="center">
 
-# ⚡ Philosophy
+## ⚡ Philosophy
 
 > Understand the system.  
 > Master the logic.  
