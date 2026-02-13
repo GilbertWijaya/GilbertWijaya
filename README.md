@@ -2,9 +2,6 @@
 <!-- Header Capsule Render (Stable Load) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=GILBERT%20WIJAYA&desc=Like%20About%20New%20Things%20|%20AI%20•%20Systems%20•%20Infrastructure%20•%20Hardware&descAlignY=63" alt="Header Image" />
 
-# 🚀 Gilbert Wijaya  
-### ⚡ Like About New Things | AI • Systems • Infrastructure • Hardware
-
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;AI+%2F+Machine+Learning+Explorer;Cyber+Security+Learner;Infrastructure+%26+System+Architecture+Enthusiast;Electronics+%26+Mechanical+Hobbyist" alt="Typing SVG" />
