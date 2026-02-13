@@ -1,7 +1,7 @@
 # 🚀 Gilbert Wijaya
 ### Techno Holic 🤘 | Backend Engineer | AI & Systems Explorer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Gilbert%20Wijaya&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Engineering%20Systems%20Across%20Software%20%26%20Hardware&descSize=18&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Gilbert%20Wijaya&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Building%20Scalable%20Systems%20With%20Passion&descSize=18&descAlignY=65" />
 
 ---
 
